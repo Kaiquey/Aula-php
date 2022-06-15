@@ -32,7 +32,7 @@
 				<label>Envie a imagem</label><input type="file" id="formGroupExampleInput3" placeholder="Insira uma imagem" name="image" id="image">
 			</div>
 			<div class="mb-3">
-				<input type="submit" value="PUBLICAR" style="background-color: #1b98e0;">
+				<input type="submit" value="PUBLICAR" class="btn btn-primary">
 			</div>
 				
 			</form>
